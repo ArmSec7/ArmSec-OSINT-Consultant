@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕵️‍♂️ ArmSec OSINT Agent Consultor
 
 O **ArmSec OSINT Agent** é um assistente virtual especializado em Inteligência de Fontes Abertas (OSINT) e segurança cibernética tática. Projetado para atuar como um mentor técnico, ele utiliza arquitetura RAG (Retrieval-Augmented Generation) com Google Gemini para fornecer estratégias de reconhecimento, recomendações de ferramentas e diretrizes de OPSEC baseadas em cenários reais.
@@ -28,3 +29,7 @@ O **ArmSec OSINT Agent** é um assistente virtual especializado em Inteligência
    **Execute o Agente**
    python agente_osint.py
    
+=======
+# ArmSec-OSINT-Consultant
+Assistente de segurança cibernética para automação de consultas OSINT. Analisa cenários táticos, sugere ferramentas de coleta e mantém o rigor em procedimentos de reconhecimento passivo.
+>>>>>>> 78e7937b1cd613e134276a99ce5855ff16d04157
